@@ -6,10 +6,11 @@ This repository contains a Spam Email Classifier implemented using NLP technique
 The dataset undergoes several preprocessing steps:
 Text Length Calculation: A new column 'length' is created to store the number of words in each row of the text column.
 
-# Tokenization: Tokenization is performed using the Natural Language Toolkit (nltk) for word tokenization. Commas and full stops are removed during this process.
-# Lemmatization: To maintain linguistic accuracy, lemmatization is chosen over stemming. This step involves reducing words to their base or root form.
+Tokenization: Tokenization is performed using the Natural Language Toolkit (nltk) for word tokenization. Commas and full stops are removed during this process.
+Lemmatization: To maintain linguistic accuracy, lemmatization is chosen over stemming. This step involves reducing words to their base or root form.
 
-# Exploratory Data Analysis (EDA) is conducted to better understand the dataset. This includes generating a pair plot, heatmap of correlation, and histograms of word length by label. The goal is to gain insights into the characteristics of spam and ham emails.
+# Exploratory Data Analysis (EDA) 
+Exploratory Data Analysis (EDA) is conducted to better understand the dataset. This includes generating a pair plot, heatmap of correlation, and histograms of word length by label. The goal is to gain insights into the characteristics of spam and ham emails.
 
 # Vectorization
 The text data is transformed into numerical vectors using the Term Frequency-Inverse Document Frequency (TF-IDF) technique. This step is crucial for feeding the data into machine learning algorithms.
