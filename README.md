@@ -1,4 +1,4 @@
-# Comparative Analysis of Spam Email Classifier 
+# Comparative Analysis - Spam Email Classifier 
 
 This repository contains a Spam Email Classifier implemented using NLP techniques. The classifier is designed to distinguish between spam and non-spam (ham) emails. The dataset used for training and evaluation has a shape of (5171, 4).
 
