@@ -24,3 +24,8 @@ Random Forest
 Logistic Regression
 
 The accuracy of each algorithm is measured and visualized using a bar plot. The results provide insights into the performance of each algorithm in classifying spam and ham emails.
+
+
+# UPDATE ( File Copy_of_SPAM_EMAIL )
+Compared the performance of different ML Algorithms using the Bag of Words vectorization techniques. Performance decreased.
+
